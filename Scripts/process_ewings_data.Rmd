@@ -5957,11 +5957,12 @@ plot.dr.all <- function(dr.data, doses = all.conc, model.type){
         ec50 <- results[[2]][[1]] #ec50 estimate in returned list from find.EC50 fn
         rmse <- results[[3]]
         # Create directory to save plot in
-        dir.create(file.path("../Plots", "DR_Curves"), showWarnings = FALSE)
-        dir.create(file.path("../Plots", "DR_Curves", cell.line), showWarnings = FALSE)
-        dir.create(file.path("../Plots", "DR_Curves", cell.line, colnames(summary)[1]), showWarnings = FALSE)
-        dir.create(file.path("../Plots", "DR_Curves", cell.line, colnames(summary)[1], date), showWarnings = FALSE)
-        path <- file.path("../Plots", "DR_Curves", cell.line, colnames(summary)[1], date)
+        dir.create(file.path("Plots"), showWarnings = FALSE)
+        dir.create(file.path("Plots", "DR_Curves"), showWarnings = FALSE)
+        dir.create(file.path("Plots", "DR_Curves", cell.line), showWarnings = FALSE)
+        dir.create(file.path("Plots", "DR_Curves", cell.line, colnames(summary)[1]), showWarnings = FALSE)
+        dir.create(file.path("Plots", "DR_Curves", cell.line, colnames(summary)[1], date), showWarnings = FALSE)
+        path <- file.path("Plots", "DR_Curves", cell.line, colnames(summary)[1], date)
         response <- c(summary[,1], summary[,2], summary[,3])
           if (is.null(adjust) == FALSE) {
             response <- c(summary[,1], summary[,2])
@@ -6084,7 +6085,8 @@ plot_dr_reps <- function(dr_timepoint, time, drug, conc){
                       rep("R5", 100), rep("R4", 100), rep("R3", 100), 
                       rep("R1", 100)))
   fits$exp_label <- c(rep("Control", 300), rep("Experimental", 400))
-  png(filename = paste0("../Plots/dr_", time, "_", drug, "_", "all_reps.png"), 
+  dir.create("Plots", showWarnings = FALSE)
+  png(filename = paste0("Plots/dr_", time, "_", drug, "_", "all_reps.png"), 
       width = 1750, height = 1000, res = 250)
   print(ggplot(fits, aes(x = conc, y = p, color = rep_label, linetype = exp_label)) +
           geom_line() + 
@@ -6200,7 +6202,7 @@ plot_single_rep <- function(dr_timepoint, time, drug, conc, expr_rep){
     g <- g + annotate("point", x=ec50_data$conc[4], y=ec50_data$p[4], # rep 5
                     color="red", size=3, alpha = 0.6)
   }
-  png(filename = paste0("../Plots/dr_", time, "_", drug, "_expr_R", expr_rep, ".png"), 
+  png(filename = paste0("Plots/dr_", time, "_", drug, "_expr_R", expr_rep, ".png"), 
       width = 1750, height = 1000, res = 250)
   print(g)
     dev.off()
@@ -6216,12 +6218,12 @@ plot_single_rep(dr_timepoint = actD_081918_dr, time = "081918", drug = "ActD",
 ```
 
 Dose-response curves for Figure 2: 
-![](../Plots/dr_080918_Doxo_all_reps.png)
-![](../Plots/dr_102818_Doxo_all_reps.png)
+![](Plots/dr_080918_Doxo_all_reps.png)
+![](Plots/dr_102818_Doxo_all_reps.png)
 
 Dose-response curves for Figure 3: 
-![](../Plots/dr_081918_SP_expr_R3.png)
-![](../Plots/dr_081918_ActD_expr_R5.png)
+![](Plots/dr_081918_SP_expr_R3.png)
+![](Plots/dr_081918_ActD_expr_R5.png)
 
 
 

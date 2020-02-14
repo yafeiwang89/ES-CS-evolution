@@ -1,0 +1,9677 @@
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
+ActD
+Genes Up-Regulated in ActD Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & SNORA24B \\ 
+  2 & SNORA27 \\ 
+  3 & SNORD116-14 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in ActD Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CLN8 \\ 
+  2 & DENND4B \\ 
+  3 & G6PD \\ 
+  4 & IKBKB \\ 
+  5 & MEG8 \\ 
+  6 & NRG1-IT1 \\ 
+  7 & NSUN5P1 \\ 
+  8 & PARVG \\ 
+  9 & SYNGAP1 \\ 
+  10 & ZNF582-AS1 \\ 
+   \hline
+\end{tabular}
+Cyclo
+Genes Up-Regulated in Cyclo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMPD2 \\ 
+  3 & ANKRD29 \\ 
+  4 & ANO5 \\ 
+  5 & ARID1B \\ 
+  6 & ATF5 \\ 
+  7 & BAHCC1 \\ 
+  8 & BBS1 \\ 
+  9 & BCR \\ 
+  10 & BOLA3 \\ 
+  11 & BUD31 \\ 
+  12 & C18orf32 \\ 
+  13 & CAD \\ 
+  14 & CAMTA1 \\ 
+  15 & CDC42SE2 \\ 
+  16 & CLCN6 \\ 
+  17 & COL4A2 \\ 
+  18 & CYB561 \\ 
+  19 & DCN \\ 
+  20 & DDIT4 \\ 
+  21 & DDX11 \\ 
+  22 & DGCR8 \\ 
+  23 & DHCR7 \\ 
+  24 & DYNC1H1 \\ 
+  25 & FABP5P7 \\ 
+  26 & FAM102B \\ 
+  27 & FAM72D \\ 
+  28 & FLNA \\ 
+  29 & FLRT2 \\ 
+  30 & G6PD \\ 
+  31 & GCN1 \\ 
+  32 & GNAI1 \\ 
+  33 & GNG10 \\ 
+  34 & GTF2A2 \\ 
+  35 & HDAC10 \\ 
+  36 & HIST1H1C \\ 
+  37 & HIST1H1T \\ 
+  38 & HMGN3 \\ 
+  39 & HOXB7 \\ 
+  40 & HSPA2 \\ 
+  41 & HYOU1 \\ 
+  42 & INTS1 \\ 
+  43 & KIF1A \\ 
+  44 & KIFC3 \\ 
+  45 & LDLR \\ 
+  46 & LENG8 \\ 
+  47 & LINC01089 \\ 
+  48 & LITAF \\ 
+  49 & LRCH4 \\ 
+  50 & LSS \\ 
+  51 & MAN2C1 \\ 
+  52 & MTMR4 \\ 
+  53 & NAA20 \\ 
+  54 & NDUFA5 \\ 
+  55 & NEBL \\ 
+  56 & NSUN5P1 \\ 
+  57 & ORMDL3 \\ 
+  58 & PCDH17 \\ 
+  59 & PCNX3 \\ 
+  60 & PCSK9 \\ 
+  61 & PDCD2L \\ 
+  62 & PELP1 \\ 
+  63 & PIEZO1 \\ 
+  64 & PLXNA1 \\ 
+  65 & POLR2K \\ 
+  66 & PRPF38B \\ 
+  67 & PRRC2A \\ 
+  68 & RALGDS \\ 
+  69 & RIPPLY3 \\ 
+  70 & RNF141 \\ 
+  71 & RPS26P8 \\ 
+  72 & RTN1 \\ 
+  73 & RUNDC3B \\ 
+  74 & RWDD1 \\ 
+  75 & SBNO2 \\ 
+  76 & SERPINH1 \\ 
+  77 & SGSM2 \\ 
+  78 & SLC12A7 \\ 
+  79 & SLC29A2 \\ 
+  80 & SLC39A8 \\ 
+  81 & SLC6A9 \\ 
+  82 & SPTAN1 \\ 
+  83 & SRRM2 \\ 
+  84 & SRSF11 \\ 
+  85 & SSTR1 \\ 
+  86 & SUCLG2 \\ 
+  87 & SUPT5H \\ 
+  88 & TMEM60 \\ 
+  89 & TOP3B \\ 
+  90 & TRAPPC9 \\ 
+  91 & TRIM16 \\ 
+  92 & TUBGCP6 \\ 
+  93 & VKORC1L1 \\ 
+  94 & ZNF654 \\ 
+  95 & ZNF76 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Cyclo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ALK \\ 
+  4 & ANAPC2 \\ 
+  5 & ARHGEF9 \\ 
+  6 & BACE1-AS \\ 
+  7 & C7 \\ 
+  8 & CAMKV \\ 
+  9 & CCN1 \\ 
+  10 & CD101 \\ 
+  11 & CD24 \\ 
+  12 & CD44 \\ 
+  13 & CLASRP \\ 
+  14 & CNOT3 \\ 
+  15 & COL7A1 \\ 
+  16 & CRMP1 \\ 
+  17 & CYFIP2 \\ 
+  18 & CYP4F23P \\ 
+  19 & DENND4B \\ 
+  20 & DERL3 \\ 
+  21 & EFHC1 \\ 
+  22 & FAM27C \\ 
+  23 & FASN \\ 
+  24 & GUCY1A2 \\ 
+  25 & HS6ST2 \\ 
+  26 & JUN \\ 
+  27 & KIAA0556 \\ 
+  28 & KMT2B \\ 
+  29 & LINC01237 \\ 
+  30 & LRCH2 \\ 
+  31 & MALAT1 \\ 
+  32 & MCF2L \\ 
+  33 & MED12 \\ 
+  34 & MEG3 \\ 
+  35 & MEG8 \\ 
+  36 & MRGPRF \\ 
+  37 & MVD \\ 
+  38 & MYH10 \\ 
+  39 & NBEAL2 \\ 
+  40 & NEFM \\ 
+  41 & NUP210 \\ 
+  42 & PARVG \\ 
+  43 & PC \\ 
+  44 & PLEC \\ 
+  45 & PYGO1 \\ 
+  46 & RASAL3 \\ 
+  47 & RNA5SP284 \\ 
+  48 & RNF130 \\ 
+  49 & RNF44 \\ 
+  50 & SNORA5C \\ 
+  51 & SPIN4 \\ 
+  52 & SYNGAP1 \\ 
+  53 & TEPSIN \\ 
+  54 & TMEM271 \\ 
+  55 & TSPAN2 \\ 
+  56 & WDR27 \\ 
+  57 & ZNF239 \\ 
+  58 & ZNF667-AS1 \\ 
+  59 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Doxo
+Genes Up-Regulated in Doxo Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & LEPROT \\ 
+  2 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Doxo Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ARHGEF9 \\ 
+  2 & KSR1 \\ 
+  3 & LAMB3 \\ 
+  4 & PARVG \\ 
+   \hline
+\end{tabular}
+Etp
+Genes Up-Regulated in Etp Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & COPRS \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & HMGN3 \\ 
+  6 & LLPH \\ 
+  7 & LYN \\ 
+  8 & MCTS2P \\ 
+  9 & NDUFAF6 \\ 
+  10 & RPL21P39 \\ 
+  11 & RUNDC3B \\ 
+  12 & SLC39A8 \\ 
+  13 & SSBP2 \\ 
+  14 & SSTR1 \\ 
+  15 & TOGARAM1 \\ 
+  16 & ZNF654 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Etp Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADAM32 \\ 
+  3 & ARHGEF9 \\ 
+  4 & CAD \\ 
+  5 & CD24 \\ 
+  6 & CD44 \\ 
+  7 & CDH4 \\ 
+  8 & CLASRP \\ 
+  9 & CLU \\ 
+  10 & CNOT3 \\ 
+  11 & COL7A1 \\ 
+  12 & CORO7 \\ 
+  13 & CREB5 \\ 
+  14 & DENND4B \\ 
+  15 & DHCR7 \\ 
+  16 & FASN \\ 
+  17 & G6PD \\ 
+  18 & GUCY1A2 \\ 
+  19 & HYOU1 \\ 
+  20 & IKBKB \\ 
+  21 & INTS1 \\ 
+  22 & KATNB1 \\ 
+  23 & KCNH5 \\ 
+  24 & KSR1 \\ 
+  25 & LAMB3 \\ 
+  26 & LDLR \\ 
+  27 & LENG8 \\ 
+  28 & MAN2C1 \\ 
+  29 & MCF2L \\ 
+  30 & MEG8 \\ 
+  31 & MINK1 \\ 
+  32 & MRGPRF \\ 
+  33 & MTHFR \\ 
+  34 & NEBL \\ 
+  35 & NEFM \\ 
+  36 & NPDC1 \\ 
+  37 & NUCB1 \\ 
+  38 & PAX7 \\ 
+  39 & PC \\ 
+  40 & PCSK7 \\ 
+  41 & PCSK9 \\ 
+  42 & PLXNB1 \\ 
+  43 & PRPF38B \\ 
+  44 & PTX3 \\ 
+  45 & RAD9A \\ 
+  46 & RHOD \\ 
+  47 & SBNO2 \\ 
+  48 & SLC7A5 \\ 
+  49 & SVIL \\ 
+  50 & SYNGAP1 \\ 
+  51 & TMEM94 \\ 
+  52 & TRAPPC9 \\ 
+  53 & TSPAN2 \\ 
+  54 & ZNF354C \\ 
+  55 & ZNF582-AS1 \\ 
+  56 & ZNF736 \\ 
+   \hline
+\end{tabular}
+NaThio
+Genes Up-Regulated in NaThio Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in NaThio Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & RN7SL4P \\ 
+   \hline
+\end{tabular}
+Ola
+Genes Up-Regulated in Ola Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANO10 \\ 
+  2 & FAM220A \\ 
+  3 & HIST1H1T \\ 
+  4 & HMGN3 \\ 
+  5 & HOXB7 \\ 
+  6 & PPP1R21 \\ 
+  7 & SAMD11 \\ 
+  8 & SNORA27 \\ 
+  9 & SSTR1 \\ 
+  10 & TAGLN \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Ola Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & AHNAK \\ 
+  3 & ARHGEF28 \\ 
+  4 & ATG4B \\ 
+  5 & CCL2 \\ 
+  6 & CCN1 \\ 
+  7 & CD24 \\ 
+  8 & CHD6 \\ 
+  9 & CLASRP \\ 
+  10 & CLCN6 \\ 
+  11 & CLN8 \\ 
+  12 & DAB2 \\ 
+  13 & DENND4B \\ 
+  14 & DHCR7 \\ 
+  15 & DYNC1H1 \\ 
+  16 & ERV3-1 \\ 
+  17 & FAM27C \\ 
+  18 & FASN \\ 
+  19 & HSPA2 \\ 
+  20 & IKBKB \\ 
+  21 & JUN \\ 
+  22 & KIFC3 \\ 
+  23 & LARGE2 \\ 
+  24 & LDLR \\ 
+  25 & LENG8 \\ 
+  26 & LINC02104 \\ 
+  27 & LMF1 \\ 
+  28 & LTBP3 \\ 
+  29 & MAN2C1 \\ 
+  30 & MCF2L \\ 
+  31 & MED15 \\ 
+  32 & MEG8 \\ 
+  33 & MGAT5 \\ 
+  34 & MRGPRF \\ 
+  35 & NEFM \\ 
+  36 & NRG1-IT1 \\ 
+  37 & P2RY11 \\ 
+  38 & PC \\ 
+  39 & PCSK7 \\ 
+  40 & PKN3 \\ 
+  41 & PLXNB1 \\ 
+  42 & PTX3 \\ 
+  43 & SIDT2 \\ 
+  44 & SLC6A9 \\ 
+  45 & SRRM2 \\ 
+  46 & SULT1B1 \\ 
+  47 & TECPR1 \\ 
+  48 & TMEM25 \\ 
+  49 & TMEM94 \\ 
+  50 & TRIM16L \\ 
+  51 & TSPAN2 \\ 
+  52 & TTLL7 \\ 
+  53 & UNKL \\ 
+   \hline
+\end{tabular}
+Paz
+Genes Up-Regulated in Paz Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ZDHHC2 \\ 
+  2 & ZNF559 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Paz Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rr}
+  \hline
+ & V1 \\ 
+  \hline
+No Differentially Expressed Genes Found &   1 \\ 
+   \hline
+\end{tabular}
+SAHA
+Genes Up-Regulated in SAHA Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCB1 \\ 
+  2 & KAZALD1 \\ 
+  3 & RPS26 \\ 
+  4 & SMAD6 \\ 
+  5 & TRGC1 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SAHA Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ACOT9 \\ 
+  2 & ACPP \\ 
+  3 & AHR \\ 
+  4 & B3GNT5 \\ 
+  5 & CCL2 \\ 
+  6 & FOS \\ 
+  7 & GAL \\ 
+  8 & NUP188 \\ 
+  9 & RN7SL5P \\ 
+  10 & SCNN1G \\ 
+  11 & TRAV5 \\ 
+   \hline
+\end{tabular}
+SN38
+Genes Up-Regulated in SN38 Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ANKRD29 \\ 
+  2 & ATP5MF \\ 
+  3 & DCN \\ 
+  4 & DUT \\ 
+  5 & EXOSC3 \\ 
+  6 & FAM72D \\ 
+  7 & HMGB1P10 \\ 
+  8 & HMGN3 \\ 
+  9 & LSM8 \\ 
+  10 & MED21 \\ 
+  11 & PSMG1 \\ 
+  12 & RBIS \\ 
+  13 & RPL21 \\ 
+  14 & RUNDC3B \\ 
+  15 & SLC39A8 \\ 
+  16 & SLIRP \\ 
+  17 & SMR3B \\ 
+  18 & SSBP2 \\ 
+  19 & SSTR1 \\ 
+  20 & WDR53 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SN38 Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ABCC10 \\ 
+  2 & ADGRL2 \\ 
+  3 & ALK \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & CAD \\ 
+  7 & CCL2 \\ 
+  8 & CDH4 \\ 
+  9 & COL16A1 \\ 
+  10 & COL7A1 \\ 
+  11 & CORO7 \\ 
+  12 & CREB5 \\ 
+  13 & CRMP1 \\ 
+  14 & CYB561 \\ 
+  15 & DENND4B \\ 
+  16 & DGCR8 \\ 
+  17 & DHCR7 \\ 
+  18 & EBI3 \\ 
+  19 & ECM1 \\ 
+  20 & FASN \\ 
+  21 & FOS \\ 
+  22 & G6PD \\ 
+  23 & GPNMB \\ 
+  24 & HSPA2 \\ 
+  25 & HYOU1 \\ 
+  26 & IKBKB \\ 
+  27 & INTS1 \\ 
+  28 & KATNB1 \\ 
+  29 & KCNH5 \\ 
+  30 & LAMB3 \\ 
+  31 & LDLR \\ 
+  32 & LENG8 \\ 
+  33 & LIPH \\ 
+  34 & LOX \\ 
+  35 & LUCAT1 \\ 
+  36 & MAN2C1 \\ 
+  37 & MAP1S \\ 
+  38 & MEG8 \\ 
+  39 & MRGPRF \\ 
+  40 & MTHFR \\ 
+  41 & NEBL \\ 
+  42 & NEFM \\ 
+  43 & NFRKB \\ 
+  44 & NLRC5 \\ 
+  45 & NPDC1 \\ 
+  46 & NPIPB3 \\ 
+  47 & NUCB1 \\ 
+  48 & PAX7 \\ 
+  49 & PCBP2-OT1 \\ 
+  50 & PCSK7 \\ 
+  51 & PCSK9 \\ 
+  52 & PIP5KL1 \\ 
+  53 & PLXNB1 \\ 
+  54 & PNPLA6 \\ 
+  55 & PRPF38B \\ 
+  56 & PTOV1-AS2 \\ 
+  57 & PTX3 \\ 
+  58 & RNF44 \\ 
+  59 & SBNO2 \\ 
+  60 & SCNN1G \\ 
+  61 & SLC7A5 \\ 
+  62 & SLITRK3 \\ 
+  63 & SUPT6H \\ 
+  64 & SYNGAP1 \\ 
+  65 & SYT12 \\ 
+  66 & THY1 \\ 
+  67 & TRAPPC9 \\ 
+  68 & USP32P1 \\ 
+  69 & UTP3 \\ 
+  70 & ZNF354C \\ 
+  71 & ZNF736 \\ 
+   \hline
+\end{tabular}
+SP
+Genes Up-Regulated in SP Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADGRL2 \\ 
+  2 & ANKS6 \\ 
+  3 & AP3B2 \\ 
+  4 & AP5Z1 \\ 
+  5 & ARHGEF9 \\ 
+  6 & C7 \\ 
+  7 & CAMKV \\ 
+  8 & CCAR2 \\ 
+  9 & CD24 \\ 
+  10 & CDH4 \\ 
+  11 & CHGA \\ 
+  12 & CORO7 \\ 
+  13 & CRMP1 \\ 
+  14 & DGCR8 \\ 
+  15 & DHCR7 \\ 
+  16 & DPP3 \\ 
+  17 & EPHA4 \\ 
+  18 & FASN \\ 
+  19 & FOXO3B \\ 
+  20 & FRG2FP \\ 
+  21 & GALNS \\ 
+  22 & HBA2 \\ 
+  23 & HDAC10 \\ 
+  24 & INCENP \\ 
+  25 & INTS1 \\ 
+  26 & KSR1 \\ 
+  27 & LIN28B \\ 
+  28 & LINC01089 \\ 
+  29 & LRCH2 \\ 
+  30 & MAN2C1 \\ 
+  31 & MEG3 \\ 
+  32 & MEG8 \\ 
+  33 & MRGPRF \\ 
+  34 & MRNIP \\ 
+  35 & MSRA \\ 
+  36 & NEB \\ 
+  37 & NEFM \\ 
+  38 & NOM1 \\ 
+  39 & NUP210 \\ 
+  40 & PBX1 \\ 
+  41 & PC \\ 
+  42 & PCBP2-OT1 \\ 
+  43 & PCDH17 \\ 
+  44 & PLXNB1 \\ 
+  45 & PPP1R1B \\ 
+  46 & PRRC2B \\ 
+  47 & PTPRG-AS1 \\ 
+  48 & PYGO1 \\ 
+  49 & RNF130 \\ 
+  50 & RNF44 \\ 
+  51 & SBNO2 \\ 
+  52 & SCAMP4 \\ 
+  53 & SCARA3 \\ 
+  54 & SLC16A7 \\ 
+  55 & SLC29A2 \\ 
+  56 & SLITRK3 \\ 
+  57 & SYK \\ 
+  58 & TAF15 \\ 
+  59 & TAF1C \\ 
+  60 & TAF6L \\ 
+  61 & TMEM271 \\ 
+  62 & TUBB3 \\ 
+  63 & VAX1 \\ 
+  64 & WDR17 \\ 
+  65 & WDR27 \\ 
+  66 & ZNF354C \\ 
+  67 & ZNF414 \\ 
+  68 & ZNF667 \\ 
+  69 & ZNF667-AS1 \\ 
+  70 & ZNF675 \\ 
+  71 & ZNF730 \\ 
+  72 & ZNF736 \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in SP Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ALX1 \\ 
+  2 & AMZ2 \\ 
+  3 & APOBEC3C \\ 
+  4 & ARHGEF6 \\ 
+  5 & CD63 \\ 
+  6 & DCN \\ 
+  7 & FAM72D \\ 
+  8 & FAM92A \\ 
+  9 & HIST1H1T \\ 
+  10 & IL33 \\ 
+  11 & IRX3 \\ 
+  12 & LINC00326 \\ 
+  13 & LITAF \\ 
+  14 & LYN \\ 
+  15 & MRPS18C \\ 
+  16 & NPIPA5 \\ 
+  17 & NRG1 \\ 
+  18 & PCSK6 \\ 
+  19 & PTGR1 \\ 
+  20 & PYCARD \\ 
+  21 & RTN1 \\ 
+  22 & SP100 \\ 
+  23 & SSTR1 \\ 
+  24 & TMEM192 \\ 
+  25 & TSPAN5 \\ 
+  26 & YAF2 \\ 
+  27 & ZFAND1 \\ 
+  28 & ZNF277 \\ 
+   \hline
+\end{tabular}
+TMZ
+Genes Up-Regulated in TMZ Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CBR3 \\ 
+  2 & NRGN \\ 
+  3 & RUNDC3B \\ 
+  4 & TRIR \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in TMZ Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & ADAM32 \\ 
+  2 & CCL2 \\ 
+  3 & LDLR \\ 
+  4 & LINC02104 \\ 
+  5 & LUCAT1 \\ 
+  6 & NPIPB3 \\ 
+  7 & PRPF38B \\ 
+  8 & RBM25 \\ 
+  9 & SNHG20 \\ 
+  10 & TPR \\ 
+  11 & UTP3 \\ 
+   \hline
+\end{tabular}
+Vin
+Genes Up-Regulated in Vin Resistant State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & FAM220A \\ 
+   \hline
+\end{tabular}
+Genes Up-Regulated in Vin Sensitive State:
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% 
+\begin{tabular}{rl}
+  \hline
+ & V1 \\ 
+  \hline
+1 & CALD1 \\ 
+  2 & CTSL \\ 
+  3 & DNAJB9 \\ 
+  4 & FLT1 \\ 
+  5 & FSTL1 \\ 
+  6 & S100A13 \\ 
+  7 & TRNP1 \\ 
+   \hline
+\end{tabular}
